@@ -50,10 +50,3 @@ Run analysis overview: 	code variables in ‘quotes’
 
 
 
-# hello-earth
-# cleaning_data
-# cleaning-data-project
-# cleaning-data-project
-# cleaning-data-project
-# cleaning-data-project
-# cleaning-data-project
