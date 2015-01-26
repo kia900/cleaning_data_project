@@ -18,7 +18,7 @@ ____________________________________________
 
 
 Lines 3-9 point to location of the files, read by the function ‘run_analysis’.
-To execute, edit lines 3-9, source file at the R console and at the command line:
+To execute, edit lines 3-9, source file at the R console, and execute at the command line:
 
 > run_analysis(x)
 
