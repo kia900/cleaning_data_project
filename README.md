@@ -4,11 +4,11 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 Here are the steps:
 
-I. GENERATE DATA FROM TRAIN DATA: This step makes a data frame of the mean and standard deviation from the Train data. It will also have 2 added columns for the subject and their activities.
+I. GENERATE DATA FRAME TRAIN_DATA: This step makes a data frame of the mean and standard deviation from the Train data. It will also have 2 added columns for the subject and their activities.
 
-II. GENERATE DATA FRAME FOR TEST DATA: This step is the same as I, but for the Test data.
+II. GENERATE DATA FRAME TEST_DATA: This step is the same as I, but for the Test data.
 
-III. MERGE DATA FRAMES: TRAIN-TEST: This step merges data frame generated from I&II.
+III. MERGE DATA FRAMES: TRAIN_TEST: This step merges data frame generated from I&II.
 
 IV. GENERATE SUMMARY TABLE: makes a summary table of the merged data frame.
 
